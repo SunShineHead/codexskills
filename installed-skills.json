@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Android Device Access",
+    "enabled": true
+  },
+  {
+    "name": "codex-app-parity",
+    "enabled": true
+  },
+  {
+    "name": "frontend-design",
+    "enabled": true
+  },
+  {
+    "name": "pwa-react-netlify-adb",
+    "enabled": true
+  },
+  {
+    "name": "telegram-bridge-send",
+    "enabled": true
+  },
+  {
+    "name": "twitter-auto-post-shizuku",
+    "enabled": true
+  }
+]
